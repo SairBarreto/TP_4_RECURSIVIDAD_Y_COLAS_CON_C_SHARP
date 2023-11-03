@@ -1,0 +1,14 @@
+C:\Users\user\Documents\PROGRAMAS\C#\Proyectos_Mios\TP_4_RECURSIVIDAD_Y_COLAS\Ejercicio_01\bin\Debug\Ejercicio_01.exe.config
+C:\Users\user\Documents\PROGRAMAS\C#\Proyectos_Mios\TP_4_RECURSIVIDAD_Y_COLAS\Ejercicio_01\bin\Debug\Ejercicio_01.exe
+C:\Users\user\Documents\PROGRAMAS\C#\Proyectos_Mios\TP_4_RECURSIVIDAD_Y_COLAS\Ejercicio_01\bin\Debug\Ejercicio_01.pdb
+C:\Users\user\Documents\PROGRAMAS\C#\Proyectos_Mios\TP_4_RECURSIVIDAD_Y_COLAS\Ejercicio_01\obj\Debug\Ejercicio_01.csproj.AssemblyReference.cache
+C:\Users\user\Documents\PROGRAMAS\C#\Proyectos_Mios\TP_4_RECURSIVIDAD_Y_COLAS\Ejercicio_01\obj\Debug\Ejercicio_01.csproj.CoreCompileInputs.cache
+C:\Users\user\Documents\PROGRAMAS\C#\Proyectos_Mios\TP_4_RECURSIVIDAD_Y_COLAS\Ejercicio_01\obj\Debug\Ejercicio_01.exe
+C:\Users\user\Documents\PROGRAMAS\C#\Proyectos_Mios\TP_4_RECURSIVIDAD_Y_COLAS\Ejercicio_01\obj\Debug\Ejercicio_01.pdb
+C:\Users\user\Documents\PROGRAMAS\Repositorios de Github\TP_4_RECURSIVIDAD_Y_COLAS_CON_C_SHARP\TP_4_RECURSIVIDAD_Y_COLAS\Ejercicio_01\bin\Debug\Ejercicio_01.exe.config
+C:\Users\user\Documents\PROGRAMAS\Repositorios de Github\TP_4_RECURSIVIDAD_Y_COLAS_CON_C_SHARP\TP_4_RECURSIVIDAD_Y_COLAS\Ejercicio_01\bin\Debug\Ejercicio_01.exe
+C:\Users\user\Documents\PROGRAMAS\Repositorios de Github\TP_4_RECURSIVIDAD_Y_COLAS_CON_C_SHARP\TP_4_RECURSIVIDAD_Y_COLAS\Ejercicio_01\bin\Debug\Ejercicio_01.pdb
+C:\Users\user\Documents\PROGRAMAS\Repositorios de Github\TP_4_RECURSIVIDAD_Y_COLAS_CON_C_SHARP\TP_4_RECURSIVIDAD_Y_COLAS\Ejercicio_01\obj\Debug\Ejercicio_01.csproj.AssemblyReference.cache
+C:\Users\user\Documents\PROGRAMAS\Repositorios de Github\TP_4_RECURSIVIDAD_Y_COLAS_CON_C_SHARP\TP_4_RECURSIVIDAD_Y_COLAS\Ejercicio_01\obj\Debug\Ejercicio_01.csproj.CoreCompileInputs.cache
+C:\Users\user\Documents\PROGRAMAS\Repositorios de Github\TP_4_RECURSIVIDAD_Y_COLAS_CON_C_SHARP\TP_4_RECURSIVIDAD_Y_COLAS\Ejercicio_01\obj\Debug\Ejercicio_01.exe
+C:\Users\user\Documents\PROGRAMAS\Repositorios de Github\TP_4_RECURSIVIDAD_Y_COLAS_CON_C_SHARP\TP_4_RECURSIVIDAD_Y_COLAS\Ejercicio_01\obj\Debug\Ejercicio_01.pdb
